@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mehedi_dnt_fci)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mh-shuvo/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=Facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/coder.mehedi/)
-(https://img.shields.io/badge/Google-mehedifci907@gmail.com-informational?style=flat&logo=Google&logoColor=white&color=0D76A8)
+![Facebook Badge](https://img.shields.io/badge/Google-Profile-informational?style=flat&logo=Google&logoColor=white&color=0D76A8)
 
 Hey there 👋
 
