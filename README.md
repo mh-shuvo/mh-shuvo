@@ -10,7 +10,7 @@ Hey there 👋
 
 I'm a Software Engineer by profession and I've done my engineering in computer science.I always  focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me. It's been around 6 years I've been working in the field of Software Development, Software Engineering, Backend Engineering and open source technologies. Primarily, I work on PHP, JavaScript,Python and MySQL based projects and frameworks. Among them, I've worked on web frameworks like CodeIgnitor, Yii2, and Laravel, Vue JS, Node JS, Django. Apart from that, I've also got a chance to work on Micro service Architecture and Docker environment. Apart from this, I like to listen music and singing!
 
-Want to know more about me? [Check out my portfolio.](http://mehedi.bitbyteplay.com)
+Want to know more about me? [Check out my portfolio.](http://mehedih.info)
 
 
 ## 💼 Skills
